@@ -42,5 +42,36 @@ An advanced To-Do List web application built with **HTML**, **CSS**, and **JavaS
 
 ---
 
-## 📁 File Structure
+
+---
+
+## 💡 Learning Outcomes
+
+- DOM Manipulation with JavaScript
+- Managing application state
+- Using Local Storage to persist data
+- Responsive design practices
+
+---
+
+## 🔮 Future Improvements
+
+- Add due dates and priority tags
+- Enable drag-and-drop for sorting
+- Sync tasks to cloud using Firebase
+- Add dark mode toggle
+
+---
+
+## 👨‍💻 Author
+
+- **Aman Sharma**
+- GitHub: [https://github.com/Amansharma9603](https://github.com/Amansharma9603)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
 
