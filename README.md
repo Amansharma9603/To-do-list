@@ -27,10 +27,7 @@ An advanced To-Do List web application built with **HTML**, **CSS**, and **JavaS
 
 ---
 
-## 📸 Screenshots
 
-> *(Add your own image if needed)*  
-![To-Do App Screenshot](./screenshot.png)
 
 ---
 
